@@ -3,9 +3,7 @@
 /**
 * main - print the string sizes
 *
-* Description- using the main function
-*
-*the package libc6-dev-i386 on your Linux to test the -m32 gcc option 
+* Description- using the main function 
 * Return: 0
 */
 int main(void)
