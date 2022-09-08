@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-*main - hello, puts
-*Description - task hello puts
+*main - print script puts function
+*Description - using the main function
 *C program that prints exactly Programming is like building a multilingual
 *return: 0
 */
