@@ -4,7 +4,7 @@
 * main - print the string sizes
 *
 * Description- using the main function
-* c program that prints the size of various types 
+* program that prints the size 
 * Return: 0
 */
 int main(void)
