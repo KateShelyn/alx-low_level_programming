@@ -3,13 +3,12 @@
 /**
 *main - hello, puts
 *
-*Description - task 4
+*Description - task hello puts
 *C program that prints exactly "Programming is like building a multilingual puzzle
 *return: 0
 */
 int main (void)
 {
-	putss("\"Programming is like building a multilingual puzzle");
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
