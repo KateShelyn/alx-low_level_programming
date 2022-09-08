@@ -4,7 +4,7 @@
 * main - print the string sizes
 *
 * Description- using the main function
-*  prints the size of various types on the computer it is compiled and run on 
+*the package libc6-dev-i386 on your Linux to test the -m32 gcc option 
 * Return: 0
 */
 int main(void)
