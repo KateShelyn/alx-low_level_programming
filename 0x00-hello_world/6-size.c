@@ -4,6 +4,7 @@
 * main - print the string sizes
 *
 * Description- using the main function
+*
 *the package libc6-dev-i386 on your Linux to test the -m32 gcc option 
 * Return: 0
 */
