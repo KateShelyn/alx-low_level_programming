@@ -4,9 +4,8 @@
 
 /**
  * main -print if the number is positive,zero or negative
-
+ *
  * Decription: using the main function
-
  * this program will assign a random number to the variable n
  *Return: 0
 */
