@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * *main -printing numbers from 0-9 with commas and spaces
+ * *main -printing numbers with commas and spaces
  * Description - using main function
- * this program prints
+ * this program prints "0, 1, 2, 3, 4, 5, 6, 7, 8, 9"
  * Return: 0
  */
 int main(void)
@@ -14,8 +14,8 @@ int main(void)
 		putchar(c);
 		if (c !=57)
 		{
-			putchar(', ');
-			putchar('  ');
+			putchar(',');
+			putchar(' ');
 		}
 	}
 	putchar('\n');
