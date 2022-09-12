@@ -1,16 +1,14 @@
 #include <stdio.h>
 /**
-* main - print function
+* main - printing numbers with commas and spaces
 *Description - using main function
 * this program prints
 * Return: 0
 */
 int main(void)
 {
-char ch;
+	int i;
 
-	for (ch = 0; ch <= 9; ch++)
-		putchar(ch);
-putchar('\n');
-return (0);
-}
+	if (i = 'a'; i <= 'z'; i++)
+	{
+		putchar(i);
