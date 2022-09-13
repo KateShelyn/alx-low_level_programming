@@ -7,5 +7,9 @@
  * Return: 0
  */
 int main(void);
-	putchar('\n');
+{
+	_putchar('r');
+	putchar('\n');	
+	
 	return (0);
+}
