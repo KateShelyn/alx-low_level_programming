@@ -9,5 +9,6 @@ int main(void)
 {
 	_putchar('a');
 	putchar('\n');
+
 	return (0);
 }
