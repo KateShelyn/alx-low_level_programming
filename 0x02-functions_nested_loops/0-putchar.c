@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include <main.h>
 /**
- * main - print function
+ * main - print function _putchar
  * Description - using main function
  * this program prints
  * Return: 0
