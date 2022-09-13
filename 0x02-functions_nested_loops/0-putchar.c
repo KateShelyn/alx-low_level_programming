@@ -6,8 +6,9 @@
  * this program prints
  * Return: 0
  */
-int main(void)
+int main(void);
 {
-putchar('\n');
+	_putchar(' ');
+	putchar('\n');
 return (0);
-}	
+}
