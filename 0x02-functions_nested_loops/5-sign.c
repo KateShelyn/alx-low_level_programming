@@ -2,6 +2,7 @@ include "main.h"
 /**
  * print_sign - function
  * Description - using print_sign function
+ * @n: input letter
  * this program prints
  * Return: 0
  */
