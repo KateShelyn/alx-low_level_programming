@@ -1,9 +1,11 @@
-#include <main.h>
+#include "main.h"
 /**
- * print_alphabet - print the alphabet
- *
+ * main - print the alphabet
+ * Desciption - using main
+ * this program prints
  * Return: 0
  */
+int main(void)
 void print_alphabet(void)
 {
 int n;
