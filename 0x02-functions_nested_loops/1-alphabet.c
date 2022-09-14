@@ -1,14 +1,12 @@
-#include "main.h"
+#include <main.h>
 /**
  * print_alphabet - print the alphabet
  *
  * Return: 0
  */
-void print_alphabet_x10(void)
+void print_alphabet(void)
 {
-int _putchar(charc);
-int print _sign(int n);
-	
+int n;
 	for (n = 'a'; n <= 'z'; n++)
 	{
 		putchar(n);
