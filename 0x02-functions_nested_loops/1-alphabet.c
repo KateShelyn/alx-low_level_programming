@@ -4,10 +4,11 @@
  *
  * Return: 0
  */
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
-int n;
-
+int _putchar(charc);
+int print _sign(int n);
+	
 	for (n = 'a'; n <= 'z'; n++)
 	{
 		putchar(n);
