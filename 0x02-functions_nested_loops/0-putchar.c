@@ -2,14 +2,14 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - print function _putchar
+ * main - print function
  * Description - using main function
  * this program prints
  * Return: 0
  */
 int main(void)
 {
-	printf("_putchar('\n')";
+	printf("_putchar\n");
 
 	return (0);
 }
