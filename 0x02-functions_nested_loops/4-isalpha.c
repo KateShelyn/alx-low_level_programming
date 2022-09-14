@@ -2,6 +2,7 @@
 /**
  * _isalpha - function
  * Description - using _isalpha function
+ * @c: input letter
  * this program prints
  * Return: 0
  */
