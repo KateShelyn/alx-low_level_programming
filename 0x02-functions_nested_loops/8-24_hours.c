@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * jack_bauer - function
+ * jack_bauer - function prionts
  * Description - using jack_bauer function
  * @hours - hours
  * @min - minutes
@@ -17,10 +17,10 @@ void jack_bauer(void)
 	{
 		for (min = 0; min < 60; min++)
 		{
-			_putchar((hours / 10) + "0");
+			_putchar(hours / 10 + "0");
 			_putchar(hours_remainder + "0");
 			_putchar(":");
-			_putchar((min / 10) + "0");
+			_putchar(min / 10 + "0");
 			_putchar(min_remainder + "0");
 			_putchar('\n');
 		}
