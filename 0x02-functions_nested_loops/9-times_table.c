@@ -5,7 +5,6 @@
  * @rw - row
  * @col - column
  * @d -digits
- * Return: 0
  */
 void times_table(void)
 {
@@ -26,7 +25,7 @@ void times_table(void)
 			_putchar(' ');
 		else
 			_putchar((d / 10) + '0');
-		_putchar((d % 10) + 0);
+		_putchar((d % 10) + '0');
 	}
 	_putchar('\n');
 	}
