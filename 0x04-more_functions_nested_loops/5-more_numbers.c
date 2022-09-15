@@ -2,24 +2,24 @@
 #include "main.h"
 
 /**
- * more_numbers - a function that prints 10 times the numbers
+ * more_numbers - a function that prints 
  * Description - using more_numbers function
  * Return: 0
  */
 
 void more_numbers(void)
 {
-	int n, c;
+	int n1, n2;
 
-	for (n = 0, n < 10; n++)
+	for (n1 = 0, n1 < 10; n1++)
 	{
-		for (c = 0; c <= 14; c++)
+		for (n2 = 0; n2 <= 14; n2++)
 		{
-			if (c > 9)
+			if (n2 > 9)
 			{
-				putchar((c / 10) + '0');
+				putchar((n2 / 10) + '0');
 			}
-			putchar((c % 10) + '0');
+			putchar((n2 % 10) + '0');
 		}
 		putchar(10);
 	}
