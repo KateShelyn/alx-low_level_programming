@@ -2,7 +2,6 @@
 /**
  * print_numbers - a function that prints the number
  * Description - using print_numbers function
- * @n: input
  * Return: 0
  */
 void print_numbers(void)
