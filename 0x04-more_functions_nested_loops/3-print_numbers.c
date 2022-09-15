@@ -1,9 +1,11 @@
 #include "main.h"
+
 /**
  * print_numbers - a function that prints the number
  * Description - using print_numbers function
  * Return: 0
  */
+
 void print_numbers(void)
 {
 	int n;
@@ -12,5 +14,5 @@ void print_numbers(void)
 	{
 		putchar(n);
 	}
-	putchar('\n');
+	putchar(10);
 }
