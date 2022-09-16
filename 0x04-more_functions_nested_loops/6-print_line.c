@@ -4,6 +4,7 @@
 /**
  * print_line -a function that draws a straight line
  * Description - using print_line function
+ * @n: parameter
  * return: 0
  */
 

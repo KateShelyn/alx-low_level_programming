@@ -2,8 +2,8 @@
 #include "main.h"
 
 /**
- * more_numbers - a function that prints 
- * 
+ * more_numbers - a function that prints
+ * Description - using more_numbers function
  * Return: 0
  */
 
