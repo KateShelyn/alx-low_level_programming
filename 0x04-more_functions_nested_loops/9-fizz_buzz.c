@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include "main.h"
 
 /**
  * main - prints the numbers
- * Description - using maain function
+ * Description - using main function
  * Return: 0
  */
 
