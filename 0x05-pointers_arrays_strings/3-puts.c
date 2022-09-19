@@ -3,9 +3,8 @@
 
 /**
  * _puts - a function
- * @str: string 
- *
  * Description - using _puts function
+ * @str: string
  * Return no error: 0
  */
 
