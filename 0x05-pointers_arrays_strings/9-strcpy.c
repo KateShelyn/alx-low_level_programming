@@ -4,6 +4,7 @@
  * _strcpy - a function
  * Description - using _strcpy function
  * @src: source
+ * @dest: destination
  * Return: 0
  */
 
