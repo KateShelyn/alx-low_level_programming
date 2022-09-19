@@ -5,7 +5,7 @@
  * Description - using _strcpy function
  * @src: source
  * @dest: destination
- * Return: 0
+ * Return: destination
  */
 
 char *_strcpy(char *dest, char *src)
@@ -19,5 +19,5 @@ char *_strcpy(char *dest, char *src)
 	}
 	*(dest + inc) = '\0';
 
-	return (0);
+	return (dest);
 }
