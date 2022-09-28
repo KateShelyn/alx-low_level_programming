@@ -3,9 +3,8 @@
 /**
  * _strcat - a function
  * Description - using _strcat function
- * @dest: destination
- * @src: source
- * @n: integer
+ * @dest: appended destination
+ * @src: concatenated source
  * Return: pointer to dest
  */
 
@@ -16,7 +15,7 @@ char *_strcat(char *dest, char *src)
 	while (dest[index++])
 		dest_len++;
 
-	for (index = 0; src[index] && index < n; index++)
+	for (index = 0; src[index]; index++)
 		dest[dest_len++] = src[index];
 
 	return (dest);
