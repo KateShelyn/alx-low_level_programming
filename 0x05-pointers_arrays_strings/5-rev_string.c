@@ -13,6 +13,5 @@ void rev_string(char *s)
 	int rev = *s;
 
 	while (rev--)
-		putchar(*(s + rev));
-	putchar(10);
+		putchar(*(s + rev) != '\0');
 }
