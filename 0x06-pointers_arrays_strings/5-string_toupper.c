@@ -4,7 +4,7 @@
  * string_toupper - a function
  * Description - using string_toupper function
  * @str: string
- * Return: 0
+ * Return: address string
  */
 
 char *string_toupper(char *)
