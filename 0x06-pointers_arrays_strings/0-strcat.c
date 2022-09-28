@@ -5,6 +5,7 @@
  * Description - using _strcat function
  * @dest: destination
  * @src: source
+ * @n: integer
  * Return: pointer to dest
  */
 
