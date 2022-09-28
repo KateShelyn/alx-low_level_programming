@@ -18,21 +18,21 @@ int is_palindrome(char *s)
 /**
  * check - checks if dtring is palindrome
  * @s: string checked
- * @first: first index
+ * @start: start index
  * @end: end index
  * @flag: shows if palindrome
  * Return: void
  */
 
-void check(char *s, int first, int end, int *flag)
+void check(char *s, int start, int end, int *flag)
 {
-	if (first <= end)
+	if (start <= end)
 	{
-		if (s[first] == s[end])
+		if (s[start] == s[end])
 			*flag *= 1;
 		else
 			*flag *= 0;
-		check(s, first + 1, end - 1; flag);
+		check(s, start + 1, end - 1, flag);
 	}
 }
 

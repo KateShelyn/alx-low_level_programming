@@ -17,7 +17,7 @@ int is_prime_number(int n);
 int is_prime(int n, int first);
 int is_palindrome(char *s);
 int wildcmp(char *s1, char *s2);
-void check(char *s, int first, int end, int *flag);
+void check(char *s, int start, int end, int *flag);
 int _putchar(char c);
 
 #endif /*MAIN_H*/
