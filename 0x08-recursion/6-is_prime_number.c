@@ -19,6 +19,7 @@ int is_prime_number(int n)
 /**
  * is_prime -  function one if prime
  * Description - using is_prime function
+ * @n: input
  * @first: first input
  * Return: 0 , one if n is prime
  */
