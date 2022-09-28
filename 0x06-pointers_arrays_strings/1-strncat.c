@@ -5,7 +5,6 @@
  * Description - using _strncat function
  * @dest: destination
  * @src: source
- * @n: input
  * Return: dest
  */
 
