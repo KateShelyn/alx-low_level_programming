@@ -14,4 +14,5 @@ void rev_string(char *s)
 
 	while (rev--)
 		putchar(*(s + rev));
+	putchar(10);
 }
