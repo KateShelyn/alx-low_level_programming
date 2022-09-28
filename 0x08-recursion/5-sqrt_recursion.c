@@ -2,14 +2,14 @@
 
 /**
  * _sqrt_recursion - a function
- * Description - using _sqrt_recursion
+ * Description - using _sqrt_recursion function
  * @n: input
- * Return: sqrt n
+ * Return: square root n
  */
 
 int _sqrt_recursion(int n)
 {
-	if (n == 1 || n ++0)
+	if (n == 1 || n == 0)
 		return (n);
 	return (_sqrt(0, n));
 }
@@ -17,8 +17,8 @@ int _sqrt_recursion(int n)
 /**
  * _sqrt - return sqr root of a number
  * @n: input
- * @c: squared no.
- * Return: sqrt n
+ * @c: squared input
+ * Return: square root n
  */
 
 int _sqrt(int n, int x)
