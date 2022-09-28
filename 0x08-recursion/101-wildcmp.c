@@ -3,9 +3,9 @@
 /**
  * wildcmp -  a function
  * Description - using wildcmp function
- * @s1: checked
- * @s2: pattern
- * Return: 0 otherwise, one identical
+ * @s1: checked string
+ * @s2: pattern for string
+ * Return: 0 , one if identical
  */
 
 int wildcmp(char *s1, char *s2)
