@@ -1,13 +1,11 @@
 #ifndef MAIN_H
 #define MAIN_H
 #include <stdio.h>
-
 /**
  * char prototypes()
  * int prototypes()
  * void prototypes()
  */
-
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
 char *_strncpy(char *dest, char *src, int n);
@@ -20,4 +18,4 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r);
 char *rot13(char *);
 char *add_strings(char *n1, char *n2, char *r, int r_index);
 
-#endif /*MAIN_H */
+#endif /*MAIN_H*/
