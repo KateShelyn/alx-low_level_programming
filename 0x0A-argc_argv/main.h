@@ -2,6 +2,6 @@
 #define MAIN_H
 
 int _putchar(char c);
-in check_num(char *str);
+int check_num(char *str);
 
-#endif
+#endif /*MAIN_H*/
